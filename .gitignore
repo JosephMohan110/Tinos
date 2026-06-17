@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+.venv/      
+venv
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Build files
+dist/
+build/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Database
+*.db
+
+# Large files
+*.zip
+*.exe
+
+haarcascade_frontalface_default.xml
